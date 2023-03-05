@@ -1,2 +1,1 @@
-you are gay
-racing game 2
+check yourself
