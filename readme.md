@@ -1,5 +1,5 @@
 <h1>kek Racing Game</h1>
-team members:<br />
+Team members:<br />
 M17<br />
 Rally<br />
 
